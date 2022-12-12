@@ -1,5 +1,6 @@
 ---
-theme: cayman
+title: トップページ
+theme: jekyll-theme-architect
 ---
 
 # Git Sample
