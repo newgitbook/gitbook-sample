@@ -7,6 +7,8 @@ theme: jekyll-theme-architect
 
 こんにちは
 
+![ぬこ画像](./kitten.jpg "ぬこ")
+
 ## 見出し2
 
 - アイテム1
@@ -28,3 +30,4 @@ int main() {
     return 0;
 }
 ```
+
