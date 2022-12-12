@@ -1,3 +1,5 @@
+theme: THEME-NAME
+
 # Git Sample
 
 こんにちは
