@@ -1,4 +1,6 @@
-theme: THEME-NAME
+---
+theme: cayman
+---
 
 # Git Sample
 
@@ -10,6 +12,13 @@ theme: THEME-NAME
 - アイテム2
   - アイテム2-1
 
+1. サンプル
+2. サンプル２
+
+リンク
+
+[Google](www.google.com)
+
 ```
 #include <stdio.h>
 
@@ -17,3 +26,4 @@ int main() {
     printf("Hello World !!\n");
     return 0;
 }
+```
