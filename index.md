@@ -17,7 +17,7 @@ theme: cayman
 
 リンク
 
-[Google](www.google.com)
+このページのソースコードは[こちら](https://github.com/newgitbook/gitbook-sample)
 
 ```
 #include <stdio.h>
